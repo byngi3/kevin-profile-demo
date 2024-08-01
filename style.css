@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url("https://th.bing.com/th/id/R.1197c59a0a97dd4bc731ceea82085305?rik=jfTfVjhFpER8dw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fc%2f7%2f8%2f800816-top-cool-backgrounds-pics-2560x1440-tablet.jpg&ehk=Cim0n8nRJ7GeNtErnCQ0u9gbNmopHotemkhqSfnkcqg%3d&risl=&pid=ImgRaw&r=0");
+  background-image: url("profilecard3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -188,3 +187,4 @@ body {
   object-position: 0px 25px;
   transition: all 0.5s ease-in-out 0.5s;
 }
+
